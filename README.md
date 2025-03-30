@@ -4,7 +4,7 @@ ___
 # STOPAS Assignment 02
 ___
 
-Median Salary by Occupation (Technology)
+Median Salaries by Occupations in Technology
 
 ![Fig 01](plots/fig_01_salary_by_occupation.png)
 
@@ -12,7 +12,7 @@ Median Salary by Occupation (Technology)
 
 ---
 
-Top Remote Hiring Companies (California)
+Top Remote Hiring Companies in California
 
 ![Fig 02](plots/fig_02_remote_jobs_ca.png)
 
