@@ -33,3 +33,8 @@ Salary Comparison Across Major U.S. Cities
 ![Fig 04](plots/fig_04_salary_by_city.png)
 
 [🔗 Download interactive version](plots/fig_04_salary_by_city.html)
+
+___
+
+Check out a live version of the Notebook here:<br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/your-username/assignment-02-salary-analysis/HEAD?labpath=STOPAS_assignment_2.ipynb)
