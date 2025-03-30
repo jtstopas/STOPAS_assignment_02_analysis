@@ -37,4 +37,5 @@ Salary Comparison Across Major U.S. Cities
 ___
 
 Check out a live version of the Notebook here:<br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/your-username/assignment-02-salary-analysis/HEAD?labpath=STOPAS_assignment_2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jtstopas/STOPAS_assignment_02_analysis/HEAD?labpath=STOPAS_assignment_2.ipynb)
+
