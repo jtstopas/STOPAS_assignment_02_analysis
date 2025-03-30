@@ -4,7 +4,7 @@ ___
 # STOPAS Assignment 02
 ___
 
-Median Salaries by Occupations in Technology
+Median Salaries by Occupation within the Technology Category
 
 ![Fig 01](plots/fig_01_salary_by_occupation.png)
 
@@ -12,7 +12,7 @@ Median Salaries by Occupations in Technology
 
 ---
 
-Top Remote Hiring Companies in California
+Top Hiring Companies in California for Remote Positions
 
 ![Fig 02](plots/fig_02_remote_jobs_ca.png)
 
@@ -20,7 +20,7 @@ Top Remote Hiring Companies in California
 
 ---
 
-Monthly Job Postings in California
+Recent Monthly Job Postings in the State of California
 
 ![Fig 03](plots/fig_03_monthly_trends_ca.png)
 
@@ -28,7 +28,7 @@ Monthly Job Postings in California
 
 ---
 
-Salary Comparison Across U.S. Cities
+Salary Comparison Across Major U.S. Cities
 
 ![Fig 04](plots/fig_04_salary_by_city.png)
 
